@@ -1,0 +1,21 @@
+*{
+  display: flex;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  flex-direction: column;
+
+}
+.pg1{
+margin-top: 10vh;
+margin-right: 10vh;
+margin-left: 25vh;
+width: 150vh;
+}
+.wrapper1{
+  margin-bottom: 10vh;
+    font-size: 1.5vw;
+}
+p{
+  style="justify-align:center;"
+}

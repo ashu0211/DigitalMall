@@ -1,0 +1,22 @@
+*{
+  display: flex;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  flex-direction: column;
+
+}
+.pg{
+margin-top: 10vh;
+margin-right: 20vh;
+margin-left: 25vh;
+width: 150vh;
+}
+.wrapper{
+  margin-bottom: 10vh;
+  font-size: 1.5vw;
+}
+
+p{
+  style="justify-align:center;"
+}
